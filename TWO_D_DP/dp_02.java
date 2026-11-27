@@ -1,7 +1,7 @@
 package TWO_D_DP;
 
 import java.util.Scanner;
-class Solution {
+class dp_02 {
     public static int uniquePathsWithObstacles(int[][] obstacleGrid){
         int m = obstacleGrid.length;
         int n = obstacleGrid[0].length;
